@@ -6,8 +6,19 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import styles from '../styles/Projects.module.scss';
 
+// Define Project type
+type Project = {
+  title: string;
+  description: string;
+  demoLink?: string;
+  sourceCodeLink: string;
+  type: string;
+  status: string;
+};
+
 const Projects: React.FC = () => {
-  const [projects, setProjects] = useState([]);
+  // Initialize projects state with empty array of Project type
+  const [projects, setProjects] = useState<Project[]>([]);
 
   useEffect(() => {
     const loadProjects = async () => {
@@ -43,6 +54,7 @@ const Projects: React.FC = () => {
 };
 
 export default Projects;
+
 
 
 

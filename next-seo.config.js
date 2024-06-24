@@ -1,5 +1,5 @@
 // next-seo.config.js
-export default {
+const SEO = {
     title: 'Your Name - Software Engineer',
     description: 'Welcome to my portfolio. Here are my projects and skills.',
     openGraph: {
@@ -9,4 +9,6 @@ export default {
       site_name: 'Your Name - Software Engineer',
     },
   };
+  
+  export default SEO;
   
