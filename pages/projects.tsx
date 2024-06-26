@@ -1,24 +1,14 @@
-// pages/projects.tsx
 import { useEffect, useState } from 'react';
 import { fetchProjects } from '../utils/fetchProjects';
 import ProjectCard from '../components/ProjectCard';
-import Header from '../components/Header';
 import Footer from '../components/Footer';
+import Navbar from '../components/Navbar';
+import { Project } from '../types/Project';
 import styles from '../styles/Projects.module.scss';
 
-// Define Project type
-type Project = {
-  title: string;
-  description: string;
-  demoLink?: string;
-  sourceCodeLink: string;
-  type: string;
-  status: string;
-};
-
 const Projects: React.FC = () => {
-  // Initialize projects state with empty array of Project type
   const [projects, setProjects] = useState<Project[]>([]);
+  const [currentIndex, setCurrentIndex] = useState(0);
 
   useEffect(() => {
     const loadProjects = async () => {
@@ -29,24 +19,32 @@ const Projects: React.FC = () => {
     loadProjects();
   }, []);
 
+  const handlePrev = () => {
+    setCurrentIndex((prevIndex) => (prevIndex === 0 ? projects.length - 1 : prevIndex - 1));
+  };
+
+  const handleNext = () => {
+    setCurrentIndex((prevIndex) => (prevIndex === projects.length - 1 ? 0 : prevIndex + 1));
+  };
+
   return (
     <div className={styles.container}>
-      <Header />
+      <Navbar />
       <main className={styles.main}>
         <h1>Projects</h1>
-        <div className={styles.projectsGrid}>
-          {projects.map((project, index) => (
-            <ProjectCard
-              key={index}
-              title={project.title}
-              description={project.description}
-              demoLink={project.demoLink}
-              sourceCodeLink={project.sourceCodeLink}
-              type={project.type}
-              status={project.status}
-            />
-          ))}
-        </div>
+        {projects.length > 0 && (
+          <ProjectCard
+            title={projects[currentIndex].title}
+            description={projects[currentIndex].description}
+            sourceCodeLink={projects[currentIndex].sourceCodeLink}
+            type={projects[currentIndex].type}
+            status={projects[currentIndex].status}
+            codeSnippet={projects[currentIndex].codeSnippet}
+            imageUrl={projects[currentIndex].imageUrl}
+            onPrev={handlePrev}
+            onNext={handleNext}
+          />
+        )}
       </main>
       <Footer />
     </div>
@@ -54,11 +52,3 @@ const Projects: React.FC = () => {
 };
 
 export default Projects;
-
-
-
-
-
-
-
-

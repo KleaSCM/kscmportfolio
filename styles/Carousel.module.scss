@@ -1,0 +1,62 @@
+// styles/Carousel.module.scss
+.carouselContainer {
+    position: relative;
+    width: 100%;
+  }
+  
+  .navButton {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 50px; // Adjust as necessary
+    height: 50px; // Adjust as necessary
+    background-color: rgba(0, 0, 0, 0.5); // Semi-transparent background
+    color: white; // Button color
+    border: none;
+    outline: none;
+    cursor: pointer;
+    z-index: 1;
+  }
+  
+  .prevButton {
+    left: 10px; // Adjust position from left
+  }
+  
+  .nextButton {
+    right: 10px; // Adjust position from right
+  }
+  
+  .navButton:hover {
+    background-color: rgba(0, 0, 0, 0.8); // Darker background on hover
+  }
+  
+  .slick-dots {
+    position: absolute;
+    bottom: 10px; // Adjust dots position from bottom
+    width: 100%;
+    list-style: none;
+    display: flex !important; // Ensure dots are displayed
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    z-index: 1;
+  }
+  
+  .slick-dots li {
+    margin: 0 5px;
+  }
+  
+  .slick-dots li button {
+    font-size: 10px; // Adjust dot size if needed
+    color: transparent; // Hide default dot text
+    background-color: transparent; // Remove default dot background
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+  }
+  
+  .slick-dots li button:hover {
+    opacity: 0.7;
+  }
+  

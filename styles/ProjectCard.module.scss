@@ -1,46 +1,183 @@
-/* styles/ProjectCard.module.scss */
 .projectCard {
-    display: flex;
+  display: flex;
+  flex-direction: row;
+  background: rgba(26, 22, 22, 0.432); /* Transparent background */
+  border-radius: 20px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+  overflow: hidden;
+  padding: 1rem;
+  max-width: 100%; /* Ensure it doesn't exceed the container width */
+  margin: 1rem 0; /* Add margin to the top and bottom */
+
+  @media (max-width: 768px) {
     flex-direction: column;
-    background: white;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s;
+    padding: 0.5rem;
+    overflow: visible; /* Ensure content is fully visible */
   }
-  
-  .thumbnail {
-    width: 100%;
-    height: 240px; /* Adjusted height for thumbnail */
-    overflow: hidden;
-    border-radius: 8px 8px 0 0;
+}
+
+.projectDetails {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Ensure the button stays at the bottom */
+  padding: 1rem;
+
+  @media (max-width: 768px) {
+    padding: 0.5rem;
   }
-  
-  .projectImage {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+}
+
+.projectMedia {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+
+  @media (max-width: 768px) {
+    padding: 0.5rem;
   }
-  
-  .projectDetails {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    padding: 1rem;
+}
+
+.thumbnail {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 20px; /* Rounded corners for the image container */
+  margin-bottom: 1rem; /* Ensure space between image and code snippet */
+
+  @media (max-width: 768px) {
+    height: auto;
   }
-  
-  .projectDetails h3 {
+}
+
+.projectImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px; /* Rounded corners for the image */
+
+  @media (max-width: 768px) {
+    height: auto;
+  }
+}
+
+.codeSnippet {
+  white-space: pre; /* Preserve whitespace and line breaks */
+  background: #f7f2f2f6;
+  padding: 1rem;
+  border-radius: 20px; /* Rounded corners for the code snippet box */
+  font-family: monospace;
+  overflow-x: auto; /* Add horizontal scrollbar when necessary */
+  max-width: 100%; /* Ensure it doesn't exceed the container width */
+  max-height: 200px; /* Limit height to fit better on small screens */
+  margin-bottom: 1rem; /* Ensure space between code snippet and navigation buttons */
+
+  @media (max-width: 768px) {
+    max-height: 150px;
+  }
+}
+
+.projectDetails h3 {
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  color: #f1ecec;
+
+  @media (max-width: 768px) {
+    font-size: 1.2rem;
+    margin-bottom: 0.3rem;
+  }
+}
+
+.projectType {
+  font-size: 1rem;
+  color: #f0e8e8;
+
+  @media (max-width: 768px) {
+    font-size: 0.9rem;
+  }
+}
+
+.projectDescription {
+  margin-bottom: 1rem;
+  color: #dacece;
+
+  @media (max-width: 768px) {
     margin-bottom: 0.5rem;
   }
-  
-  .projectDetails p {
-    margin-bottom: 1rem;
+}
+
+.projectStatus {
+  margin-bottom: 1rem;
+  color: #ece3e3;
+
+  @media (max-width: 768px) {
+    margin-bottom: 0.5rem;
   }
-  
-  .projectDetails a {
-    margin-top: auto;
+}
+
+.links {
+  display: flex;
+  gap: 1rem;
+
+  @media (max-width: 768px) {
+    gap: 0.5rem;
+    flex-direction: column;
   }
-  
-  .projectCard:hover {
-    transform: translateY(-5px);
+}
+
+.link {
+  background-color: #0e4b06;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 20px; /* Match rounded corners */
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+
+  @media (max-width: 768px) {
+    padding: 0.3rem 0.5rem;
   }
-  
+}
+
+.link:hover {
+  background-color: #0b0d0f;
+}
+
+.navigation {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+  justify-content: center; /* Center the navigation buttons */
+
+  @media (max-width: 768px) {
+    gap: 0.5rem;
+    flex-direction: column;
+    margin-top: 0.5rem;
+  }
+}
+
+.navButton {
+  background-color: #04721f;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 20px; /* Match rounded corners */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  @media (max-width: 768px) {
+    padding: 0.3rem 0.5rem;
+  }
+}
+
+.navButton:hover {
+  background-color: #151516;
+}
+
+.projectCard:hover {
+  transform: translateY(-5px);
+}
+

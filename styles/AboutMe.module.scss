@@ -1,0 +1,25 @@
+/* styles/AboutMe.module.scss */
+.aboutMeContent {
+    width: 100%;
+    max-width: 800px;
+    margin: 1px auto; /* Adjust margin to move the box higher */
+    text-align: center;
+  }
+  
+  .aboutMeBox {
+    max-height: 630px; /* Increase the height to remove scrollbar */
+    border: 1px solid #e9ecef; /* Light border */
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    background-color: rgba(0, 0, 0, 0.664); /* Darker, semi-transparent background */
+    color: #ffffff; /* White text color for contrast */
+  }
+  
+  .aboutMeBox p {
+    margin-bottom: 2px; /* Space between paragraphs */
+    font-size: 18px; /* Font size */
+    line-height: 1.3; /* Line height */
+    color: #ffffff; /* White text color */
+  }
+  
