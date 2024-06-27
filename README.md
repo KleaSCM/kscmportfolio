@@ -1,7 +1,7 @@
 # Professional Software Engineering Portfolio
 ## Welcome to my professional software engineering portfolio. This portfolio showcases various projects that I have worked on, demonstrating my skills and experience in software development.
 
-##Table of Contents:
+## Table of Contents:
 - Projects
 - EasyWorkApp
 - EncryptDcrypt
@@ -16,43 +16,43 @@
 - License
 - Contact
 
-##Projects
+## Projects
 
-##EasyWorkApp
-#Description:
+# EasyWorkApp
+## Description:
 A simple application for easy access to work tools.
 Source Code: GitHub
 
-##EncryptDcrypt
-#Description: An application to encrypt and decrypt files.
+# EncryptDcrypt
+## Description: An application to encrypt and decrypt files.
 Demo Link: EncryptDcrypt
 Source Code: GitHub
-##klieaweather
-Description: A weather application to get current weather information.
+# klieaweather
+## Description: A weather application to get current weather information.
 Demo Link: klieaweather
 Source Code: GitHub
-##AutoKB
-Description: Automated knowledge base for quick reference.
+# AutoKB
+## Description: Automated knowledge base for quick reference.
 Demo Link: AutoKB
 Source Code: GitHub
-##KlieaProtfolio
-Description: Portfolio showcasing various projects.
+# KlieaProtfolio
+## Description: Portfolio showcasing various projects.
 Demo Link: KlieaProtfolio
 Source Code: GitHub
-##BlueFrog
-Description: A launcher for various applications and tools.
+# BlueFrog
+## Description: A launcher for various applications and tools.
 Demo Link: BlueFrog
 Source Code: GitHub
 
-##Technologies Used
-#Frontend: Next.js, React
-#Styling: SCSS, CSS Modules
-#Backend: Node.js
-#APIs: GitHub API, OpenWeather API, Unsplash API
-#Utilities: Axios, Fuse.js
-#Version Control: Git
+## Technologies Used
+## Frontend: Next.js, React
+## Styling: SCSS, CSS Modules
+## Backend: Node.js
+## APIs: GitHub API, OpenWeather API, Unsplash API
+## Utilities: Axios, Fuse.js
+## Version Control: Git
 
-##Installation
+## Installation
 To set up the project locally, follow these steps:
 
 Clone the repository:
@@ -89,10 +89,12 @@ To view the projects, navigate to the "Projects" section from the homepage. You 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## Contact
-GitHub: Jay-SCM
-LinkedIn: Jinkedin.com/in/john-f-8094a9266 
+GitHub:
+Jay-SCM
+LinkedIn:
+Jinkedin.com/in/john-f-8094a9266 
 john.farmer1086@gmail.com
-## My WoW projects can be found at 
+## My WoW projects can be found at: 
 curseforge.com/members/klieascm/projects
 
 Feel free to reach out if you have any questions or feedback!
