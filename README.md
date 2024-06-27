@@ -1,5 +1,5 @@
-#Professional Software Engineering Portfolio
-##Welcome to my professional software engineering portfolio. This portfolio showcases various projects that I have worked on, demonstrating my skills and experience in software development.
+# Professional Software Engineering Portfolio
+## Welcome to my professional software engineering portfolio. This portfolio showcases various projects that I have worked on, demonstrating my skills and experience in software development.
 
 ##Table of Contents:
 - Projects
