@@ -108,10 +108,11 @@ To view the projects, navigate to the "Projects" section from the homepage. You 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## Contact
-GitHub:
+- GitHub:
 [Jay-SCM](https://github.com/Jay-SCM)
-LinkedIn:
-Jinkedin.com/in/john-f-8094a9266 
+- LinkedIn:
+[Jinkedin.com/in/john-f-8094a9266 ](https://www.linkedin.com/in/john-f-8094a9266/)
+- Email
 john.farmer1086@gmail.com
 ## My WoW projects can be found at: 
 curseforge.com/members/klieascm/projects
