@@ -109,7 +109,7 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## Contact
 GitHub:
-Jay-SCM
+[Jay-SCM](https://github.com/Jay-SCM)
 LinkedIn:
 Jinkedin.com/in/john-f-8094a9266 
 john.farmer1086@gmail.com
