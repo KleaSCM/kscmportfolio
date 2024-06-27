@@ -16,7 +16,7 @@
 - License
 - Contact
 
-## Projects
+# Projects
 
 # EasyWorkApp
 ## Description:
@@ -27,36 +27,55 @@ Source Code: GitHub
 ## Description: An application to encrypt and decrypt files.
 Demo Link: EncryptDcrypt
 Source Code: GitHub
+
 # klieaweather
+
 ## Description: A weather application to get current weather information.
 Demo Link: klieaweather
 Source Code: GitHub
+
 # AutoKB
+
 ## Description: Automated knowledge base for quick reference.
 Demo Link: AutoKB
 Source Code: GitHub
+
 # KlieaProtfolio
+
 ## Description: Portfolio showcasing various projects.
 Demo Link: KlieaProtfolio
 Source Code: GitHub
+
 # BlueFrog
+
 ## Description: A launcher for various applications and tools.
 Demo Link: BlueFrog
 Source Code: GitHub
 
-## Technologies Used
-## Frontend: Next.js, React
-## Styling: SCSS, CSS Modules
-## Backend: Node.js
-## APIs: GitHub API, OpenWeather API, Unsplash API
-## Utilities: Axios, Fuse.js
-## Version Control: Git
+# Technologies Used
+- Frontend: Next.js, React
+
+## Styling:
+- SCSS, CSS Modules
+
+## Backend:
+- Node.js
+
+## APIs:
+- GitHub API,
+- OpenWeather API, Unsplash API
+
+## Utilities:
+- Axios
+- Fuse.js
+  
+## Version Control:
+- Git
 
 ## Installation
 To set up the project locally, follow these steps:
 
 Clone the repository:
-
 
 ```sh
 git clone https://github.com/Jay-SCM/portfolio.git
