@@ -1,4 +1,4 @@
-// pages/_app.tsx
+
 import { DefaultSeo } from 'next-seo';
 import SEO from '../next-seo.config';
 import '../styles/globals.scss';

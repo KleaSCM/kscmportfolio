@@ -61,9 +61,9 @@ export const fetchProjects = async (): Promise<Project[]> => {
       title: repo.name,
       description: repo.description,
       sourceCodeLink: repo.sourceCodeLink,
-      type: 'Web', // Customize this as needed
-      status: 'Active', // Customize this as needed
-      imageUrl: '/images/projects.jpg', // Ensure it points to the correct image path
+      type: 'Web', 
+      status: 'Active', 
+      imageUrl: '/images/projects.jpg', 
       codeSnippet,
     };
   }));

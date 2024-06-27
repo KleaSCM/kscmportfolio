@@ -1,5 +1,3 @@
-//AboutMe.tsx
-import { useEffect, useState } from 'react';
 import styles from '../styles/AboutMe.module.scss';
 
 const AboutMe = () => {
@@ -30,9 +28,26 @@ const AboutMe = () => {
             I am passionate about learning new technologies to enhance my skills and contribute to innovative projects with high-quality solutions.
           </p>
         </div>
+        {/* <div className={styles.icons}>
+          <a href="https://github.com/Jay-SCM" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.icons8.com/material-rounded/24/ffffff/github.png" alt="GitHub Icon" className={styles.icon} />
+          </a>
+          <a href="https://www.curseforge.com/members/klieascm/projects" target="_blank" rel="noopener noreferrer">
+            <img src="/images/curseforgelogo.avif" alt="CurseForge Icon" className={styles.icon} />
+          </a>
+          <a href="https://www.linkedin.com/in/john-f-8094a9266/" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.icons8.com/material-sharp/24/ffffff/linkedin.png" alt="LinkedIn Icon" className={styles.icon} />
+          </a>
+        </div> */}
       </div>
     </section>
   );
 };
 
 export default AboutMe;
+
+
+
+
+
+

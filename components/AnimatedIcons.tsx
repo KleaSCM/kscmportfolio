@@ -1,4 +1,3 @@
-// components/AnimatedIcon.tsx
 
 import { motion } from 'framer-motion';
 
@@ -26,7 +25,7 @@ const AnimatedIcon: React.FC<IconProps> = ({ icon, alt, delay, left, top }) => {
       animate={{ opacity: 1, translateY: 0, translateX: 0 }}
       transition={{ delay: delay, duration: 0.5 }}
     >
-      <img src={icon} alt={alt} style={{ width: '80px', height: '80px', margin: '10px', transform: 'rotate(90deg)' }} />
+      <img src={icon} alt={alt} style={{ width: '40px', height: '40px', margin: '10px', transform: 'rotate(0deg)' }} />
     </motion.div>
   );
 };

@@ -1,4 +1,3 @@
-// components/Resume.tsx
 
 import styles from '../styles/Resume.module.scss';
 

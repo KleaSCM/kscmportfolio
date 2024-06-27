@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      {/* Logo with link to home page */}
+     
       <Link href="/">
         <div className={styles.logo}>
           <Image src="/images/prof2.jpg" alt="Your Logo" width={50} height={50} className={styles.logoImage} />
@@ -59,6 +59,8 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+
 
 
 

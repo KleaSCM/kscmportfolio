@@ -1,29 +1,28 @@
-/* styles/Home.module.scss */
 .container {
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /* Ensure the container height matches the viewport height */
+  min-height: 100vh;
   background-image: url('/images/portfolioback.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   color: #080707;
-  overflow: hidden; /* Hide any overflow */
-  position: relative; /* Add relative positioning to the container */
+  overflow: hidden;
+  position: relative;
 }
 
 .main {
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start; /* Move content towards the top */
+  justify-content: flex-start;
   align-items: center;
   text-align: center;
-  padding: 1rem; /* Add padding */
-  padding-bottom: 60px; /* Add padding to the bottom to prevent footer overlap */
+  padding: 1rem;
+  padding-bottom: 60px;
   box-sizing: border-box;
+  overflow-y: auto;
 }
-
 
 .title,
 .description {
@@ -39,15 +38,14 @@
 }
 
 .iconContainer {
-  position: absolute; /* Position icons absolutely */
-  top: 60%; /* Align icons vertically */
-  left: 50%; /* Center horizontally */
-  transform: translate(110%, -50%) rotate(-90deg); /* Rotate container left by 90 degrees */
+  position: absolute;
+  top: 87%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   display: flex;
-  justify-content: space-between; /* Arrange icons with space-between */
-  height: 80%; /* Adjust height as needed */
-  max-height: 80vh; /* Maximum height */
-  width: 300px; /* Adjust width as needed */
+  justify-content: space-between;
+  width: 300px;
+  gap: 20px; 
 }
 
 .iconContainer div {
@@ -56,10 +54,10 @@
 }
 
 .iconContainer img {
-  width: 80px; /* Adjust size if needed */
-  height: 80px; /* Adjust size if needed */
-  margin: 5px; /* Adjust margin */
-  transform: rotate(-90deg); /* Ensure icon is upright */
+  width: 80px;
+  height: 80px;
+  margin: 5px;
+  transform: rotate(-90deg);
 }
 
 @keyframes fadeInAnimation {
@@ -70,14 +68,16 @@
 
 @media (max-width: 768px) {
   .iconContainer {
-    width: 200px; /* Adjust width for smaller screens */
+    width: 200px;
+    gap: 15px; /* Adjust gap for smaller screens */
   }
-  
+
   .iconContainer img {
-    width: 80px; /* Adjust icon size for smaller screens */
-    height: 80px; /* Adjust icon size for smaller screens */
+    width: 80px;
+    height: 80px;
   }
 }
+
 
 
 

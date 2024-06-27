@@ -5,15 +5,15 @@
   background-image: url('/images/ice.jpg');
   background-size: cover;
   background-position: center;
-  padding: 0 3cm; /* Add padding to both sides */
-  overflow-y: auto; /* Add vertical scrolling if necessary */
+  padding: 0 3cm; 
+  overflow-y: auto; 
 
   @media (max-width: 1200px) {
-    padding: 0 2cm; /* Adjust padding for smaller screens */
+    padding: 0 2cm; 
   }
 
   @media (max-width: 768px) {
-    padding: 0 1rem; /* Adjust padding for even smaller screens */
+    padding: 0 1rem; 
   }
 }
 
@@ -26,7 +26,7 @@
   text-align: center;
   padding: 1rem;
   box-sizing: border-box;
-  overflow-y: auto; /* Add vertical scrolling if necessary */
+  overflow-y: auto; 
 }
 
 

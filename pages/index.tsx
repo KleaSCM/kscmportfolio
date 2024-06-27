@@ -1,9 +1,8 @@
-// pages/index.tsx
 
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import AboutMe from '../components/AboutMe';
-import AnimatedIcon from '../components/AnimatedIcons'; // Adjust path as per your project structure
+import AnimatedIcon from '../components/AnimatedIcons'; 
 import styles from '../styles/Home.module.scss';
 
 const HomePage = () => (

@@ -1,19 +1,19 @@
 .projectCard {
   display: flex;
   flex-direction: row;
-  background: rgba(26, 22, 22, 0.432); /* Transparent background */
-  border-radius: 20px; /* Rounded corners */
+  background: rgba(26, 22, 22, 0.432); 
+  border-radius: 20px; 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s;
   overflow: hidden;
   padding: 1rem;
-  max-width: 100%; /* Ensure it doesn't exceed the container width */
-  margin: 1rem 0; /* Add margin to the top and bottom */
+  max-width: 100%; 
+  margin: 1rem 0; 
 
   @media (max-width: 768px) {
     flex-direction: column;
     padding: 0.5rem;
-    overflow: visible; /* Ensure content is fully visible */
+    overflow: visible; 
   }
 }
 
@@ -21,7 +21,7 @@
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: space-between; /* Ensure the button stays at the bottom */
+  justify-content: space-between; 
   padding: 1rem;
 
   @media (max-width: 768px) {
@@ -58,7 +58,7 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 20px; /* Rounded corners for the image */
+  border-radius: 20px; 
 
   @media (max-width: 768px) {
     height: auto;
@@ -69,12 +69,12 @@
   white-space: pre; /* Preserve whitespace and line breaks */
   background: #f7f2f2f6;
   padding: 1rem;
-  border-radius: 20px; /* Rounded corners for the code snippet box */
+  border-radius: 20px; 
   font-family: monospace;
   overflow-x: auto; /* Add horizontal scrollbar when necessary */
-  max-width: 100%; /* Ensure it doesn't exceed the container width */
-  max-height: 200px; /* Limit height to fit better on small screens */
-  margin-bottom: 1rem; /* Ensure space between code snippet and navigation buttons */
+  max-width: 100%; 
+  max-height: 200px; 
+  margin-bottom: 1rem; 
 
   @media (max-width: 768px) {
     max-height: 150px;
@@ -133,7 +133,7 @@
   background-color: #0e4b06;
   color: white;
   padding: 0.5rem 1rem;
-  border-radius: 20px; /* Match rounded corners */
+  border-radius: 20px; 
   text-decoration: none;
   transition: background-color 0.3s ease;
 
@@ -150,7 +150,7 @@
   display: flex;
   gap: 1rem;
   margin-top: 1rem;
-  justify-content: center; /* Center the navigation buttons */
+  justify-content: center; 
 
   @media (max-width: 768px) {
     gap: 0.5rem;

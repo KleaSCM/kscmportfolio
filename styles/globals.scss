@@ -1,11 +1,10 @@
-/* styles/globals.scss */
 body {
   font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   background-color: #f0f2f5;
-  overflow: hidden; /* Prevent scrollbars from appearing */
+  overflow-x: hidden; /* Prevent horizontal overflow */
 }
 
 a {
@@ -13,22 +12,51 @@ a {
   text-decoration: none;
 }
 
-.project-card {
-  padding: 1rem;
-  margin: 1rem;
-  background: white;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  transition: transform 0.2s;
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #080707;
+  overflow-x: hidden; /* Prevent horizontal overflow */
+  position: relative;
 }
 
-.project-card:hover {
-  transform: translateY(-5px);
+.main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+  padding: 1rem;
+  padding-bottom: 60px;
+  box-sizing: border-box;
+  overflow-x: hidden; /* Prevent horizontal overflow */
 }
 
-.projects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 20px;
-  padding: 1rem;
+img {
+  max-width: 100%;
+  height: auto;
 }
+
+section {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .main {
+    padding: 0.5rem;
+  }
+
+  section {
+    padding: 10px;
+  }
+}
+
+
+
