@@ -3,36 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Navbar.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\Navbar.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Resume.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\Resume.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\projects.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\projects.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\Footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\AboutMe.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\AboutMe.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Footer.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\Footer.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\globals.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\globals.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Home.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\Home.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\_document.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\_document.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Projects.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\Projects.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\_app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\_app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\projects.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\projects.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\Navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\Layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\Footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\AnimatedIcons.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\AnimatedIcons.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\AboutMe.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\AboutMe.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Navbar.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\Navbar.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\ProjectCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\ProjectCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Resume.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\Resume.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\ProjectCard.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\ProjectCard.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Layout.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\Layout.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Resume.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\Resume.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,41 +98,217 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_document.tsx",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\_document.tsx",
+              "RelativeDocumentMoniker": "pages\\_document.tsx",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\_document.tsx",
+              "RelativeToolTip": "pages\\_document.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T11:51:08.019Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\package.json",
-              "RelativeDocumentMoniker": "package.json",
-              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\package.json",
-              "RelativeToolTip": "package.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-04T11:40:23.407Z",
+              "Title": "AboutMe.module.scss",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\AboutMe.module.scss",
+              "RelativeDocumentMoniker": "styles\\AboutMe.module.scss",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\AboutMe.module.scss",
+              "RelativeToolTip": "styles\\AboutMe.module.scss",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-07-04T11:51:17.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Navbar.module.scss",
-              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Navbar.module.scss",
-              "RelativeDocumentMoniker": "styles\\Navbar.module.scss",
-              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Navbar.module.scss",
-              "RelativeToolTip": "styles\\Navbar.module.scss",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAQAAAA",
+              "Title": "Footer.module.scss",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Footer.module.scss",
+              "RelativeDocumentMoniker": "styles\\Footer.module.scss",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Footer.module.scss",
+              "RelativeToolTip": "styles\\Footer.module.scss",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-07-01T12:52:41.629Z",
+              "WhenOpened": "2024-07-01T12:34:12.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "globals.scss",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\globals.scss",
+              "RelativeDocumentMoniker": "styles\\globals.scss",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\globals.scss",
+              "RelativeToolTip": "styles\\globals.scss",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-07-04T11:51:37.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.module.scss",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Home.module.scss",
+              "RelativeDocumentMoniker": "styles\\Home.module.scss",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Home.module.scss",
+              "RelativeToolTip": "styles\\Home.module.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-07-04T11:51:48.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projects.module.scss",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Projects.module.scss",
+              "RelativeDocumentMoniker": "styles\\Projects.module.scss",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Projects.module.scss",
+              "RelativeToolTip": "styles\\Projects.module.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-07-01T12:39:52.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_app.tsx",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\_app.tsx",
+              "RelativeDocumentMoniker": "pages\\_app.tsx",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\_app.tsx",
+              "RelativeToolTip": "pages\\_app.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T11:50:59.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "projects.tsx",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\projects.tsx",
+              "RelativeDocumentMoniker": "pages\\projects.tsx",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\projects.tsx",
+              "RelativeToolTip": "pages\\projects.tsx",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-01T12:39:24.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Navbar.tsx",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Navbar.tsx",
+              "RelativeDocumentMoniker": "components\\Navbar.tsx",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Navbar.tsx",
+              "RelativeToolTip": "components\\Navbar.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T11:50:04.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Layout.tsx",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Layout.tsx",
+              "RelativeDocumentMoniker": "components\\Layout.tsx",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Layout.tsx",
+              "RelativeToolTip": "components\\Layout.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T11:49:55.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Footer.tsx",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Footer.tsx",
+              "RelativeDocumentMoniker": "components\\Footer.tsx",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Footer.tsx",
+              "RelativeToolTip": "components\\Footer.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-01T12:33:55.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnimatedIcons.tsx",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\AnimatedIcons.tsx",
+              "RelativeDocumentMoniker": "components\\AnimatedIcons.tsx",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\AnimatedIcons.tsx",
+              "RelativeToolTip": "components\\AnimatedIcons.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T11:49:37.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutMe.tsx",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\AboutMe.tsx",
+              "RelativeDocumentMoniker": "components\\AboutMe.tsx",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\AboutMe.tsx",
+              "RelativeToolTip": "components\\AboutMe.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T11:49:21.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\index.tsx",
+              "RelativeDocumentMoniker": "pages\\index.tsx",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\index.tsx",
+              "RelativeToolTip": "pages\\index.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T11:50:43.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Navbar.module.scss",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Navbar.module.scss",
+              "RelativeDocumentMoniker": "styles\\Navbar.module.scss",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Navbar.module.scss",
+              "RelativeToolTip": "styles\\Navbar.module.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-07-01T12:52:41.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectCard.tsx",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\ProjectCard.tsx",
+              "RelativeDocumentMoniker": "components\\ProjectCard.tsx",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\ProjectCard.tsx",
+              "RelativeToolTip": "components\\ProjectCard.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T11:50:17.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Resume.module.scss",
               "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Resume.module.scss",
               "RelativeDocumentMoniker": "styles\\Resume.module.scss",
@@ -88,7 +320,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
+              "Title": "ProjectCard.module.scss",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\ProjectCard.module.scss",
+              "RelativeDocumentMoniker": "styles\\ProjectCard.module.scss",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\ProjectCard.module.scss",
+              "RelativeToolTip": "styles\\ProjectCard.module.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-07-04T11:52:20.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Layout.module.scss",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Layout.module.scss",
+              "RelativeDocumentMoniker": "styles\\Layout.module.scss",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Layout.module.scss",
+              "RelativeToolTip": "styles\\Layout.module.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-07-04T11:52:00.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Resume.tsx",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Resume.tsx",
+              "RelativeDocumentMoniker": "components\\Resume.tsx",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Resume.tsx",
+              "RelativeToolTip": "components\\Resume.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T11:50:26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T11:40:23.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "variables.scss",
               "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\variables.scss",
               "RelativeDocumentMoniker": "styles\\variables.scss",
@@ -97,54 +377,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
               "WhenOpened": "2024-07-01T12:52:33.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "projects.tsx",
-              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\projects.tsx",
-              "RelativeDocumentMoniker": "pages\\projects.tsx",
-              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\pages\\projects.tsx",
-              "RelativeToolTip": "pages\\projects.tsx",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwDYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-07-01T12:39:24.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Projects.module.scss",
-              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Projects.module.scss",
-              "RelativeDocumentMoniker": "styles\\Projects.module.scss",
-              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Projects.module.scss",
-              "RelativeToolTip": "styles\\Projects.module.scss",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-07-01T12:39:52.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Footer.module.scss",
-              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Footer.module.scss",
-              "RelativeDocumentMoniker": "styles\\Footer.module.scss",
-              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\styles\\Footer.module.scss",
-              "RelativeToolTip": "styles\\Footer.module.scss",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-07-01T12:34:12.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Footer.tsx",
-              "DocumentMoniker": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Footer.tsx",
-              "RelativeDocumentMoniker": "components\\Footer.tsx",
-              "ToolTip": "C:\\Users\\Kliea\\Documents\\WebDev\\kscmportfolio\\components\\Footer.tsx",
-              "RelativeToolTip": "components\\Footer.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-07-01T12:33:55.843Z"
             }
           ]
         }

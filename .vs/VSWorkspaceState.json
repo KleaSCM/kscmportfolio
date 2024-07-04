@@ -3,8 +3,10 @@
     "",
     "\\components",
     "\\pages",
+    "\\pages\\api",
+    "\\public",
+    "\\public\\images",
     "\\styles"
   ],
-  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }

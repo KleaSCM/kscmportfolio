@@ -1,17 +1,17 @@
-/* src/styles/projects.module.scss */
+
 .container {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-image: url('/images/ice.jpg');
+    background-image: url('/images/code.jpg');
     background-size: cover;
     background-position: center;
     overflow-y: auto;
     width: 100%; // Ensures container is full width
-    padding: 0; // Removes padding that might affect width
+    padding: 0; 
 
     @media (min-width: 769px) {
-        padding: 0; // Remove this if it's still causing width issues
+        padding: 0; 
     }
 
     @media (max-width: 768px) {
@@ -52,7 +52,7 @@
     transform: translateY(-5px);
 }
 
-/* src/styles/projects.module.scss */
+
 .footerContainer {
     width: 100%;
     margin-top: auto;

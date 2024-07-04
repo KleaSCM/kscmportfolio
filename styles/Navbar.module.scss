@@ -1,27 +1,35 @@
-/* src/styles/Navbar.module.scss */
+
 .navbar {
     display: flex;
-    justify-content: space-between;
+    justify-content: center; /* Center the navbar content */
     align-items: center;
     background-color: #38580381;
     padding: 0.2px 8px;
     border-radius: 20px;
     margin-top: 20px;
-    max-width: 90%;
+    width: auto; /* Adjust width to fit content */
     margin-left: auto;
     margin-right: auto;
     position: relative;
 }
 
+.navContainer {
+    display: flex;
+    align-items: center;
+}
+
 .logo {
     cursor: pointer;
+    margin-left: 10px; /* Adjust margin to move logo closer */
 }
 
 .navList {
     list-style-type: none;
     display: flex;
-    gap: 20px;
+    gap: 10px; /* Reduced gap for closer links */
     align-items: center;
+    margin: 0; /* Remove margin to fit content */
+    padding: 0; /* Remove padding to fit content */
 }
 
 .navItem {
@@ -53,14 +61,14 @@
 }
 
 .logoImage {
-    max-width: 50px;
-    max-height: 50px;
+    max-width: 40px; /* Adjusted size for a smaller logo */
+    max-height: 40px;
     border-radius: 50%;
 }
 
 @media (max-width: 768px) {
     .navList {
-        gap: 10px; /* Adjust gap for smaller screens */
+        gap: 5px; /* Further reduce gap for smaller screens */
     }
 
     .navLink {
