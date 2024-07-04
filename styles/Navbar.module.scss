@@ -1,102 +1,74 @@
+/* src/styles/Navbar.module.scss */
 .navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #38580381;
-  padding: 0.2px 8px;
-  border-radius: 20px;
-  margin-top: 20px;
-  max-width: 90%;
-  margin-left: auto;
-  margin-right: auto;
-  position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #38580381;
+    padding: 0.2px 8px;
+    border-radius: 20px;
+    margin-top: 20px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
 }
 
 .logo {
-  cursor: pointer;
-}
-
-.hamburger {
-  display: none;
-  flex-direction: column;
-  cursor: pointer;
-
-  .bar {
-    height: 2px;
-    width: 25px;
-    background: #fff;
-    margin-bottom: 4px;
-    border-radius: 2px;
-  }
+    cursor: pointer;
 }
 
 .navList {
-  list-style-type: none;
-  display: flex;
-  gap: 20px;
-  align-items: center;
-
-  @media (max-width: 768px) {
-    flex-direction: column;
-    background-color: #38580381;
-    position: absolute;
-    top: 60px;
-    left: 0;
-    right: 0;
-    margin: 0;
-    padding: 10px;
-    border-radius: 10px;
-    display: none;
-
-    &.show {
-      display: flex;
-    }
-  }
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    align-items: center;
 }
 
 .navItem {
-  font-size: 16px;
-  color: #fff;
+    font-size: 16px;
+    color: #fff;
 }
 
 .navLink {
-  display: flex;
-  align-items: center;
-  color: #fff;
-  text-decoration: none;
-  transition: color 0.3s ease;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
 
-  &:hover {
-    color: #0c0909;
-  }
+    &:hover {
+        color: #0c0909;
+    }
 }
 
 .icon {
-  width: 24px;
-  height: 24px;
-  margin-right: 5px;
-  transition: transform 0.3s ease;
+    width: 24px;
+    height: 24px;
+    margin-right: 5px;
+    transition: transform 0.3s ease;
 
-  &:hover {
-    transform: scale(1.2);
-  }
+    &:hover {
+        transform: scale(1.2);
+    }
 }
 
 .logoImage {
-  max-width: 50px;
-  max-height: 50px;
-  border-radius: 50%;
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
 }
 
 @media (max-width: 768px) {
-  .hamburger {
-    display: flex;
-  }
+    .navList {
+        gap: 10px; /* Adjust gap for smaller screens */
+    }
 
-  .navList {
-    display: none;
-  }
+    .navLink {
+        font-size: 14px; /* Adjust font size for smaller screens */
+    }
+
+    .icon {
+        width: 20px; /* Adjust icon size for smaller screens */
+        height: 20px;
+    }
 }
-
-
-
